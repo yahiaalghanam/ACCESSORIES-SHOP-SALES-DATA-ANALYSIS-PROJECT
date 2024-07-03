@@ -1,0 +1,14 @@
+- count of invoices per month or day
+- daily/monthly total cost, note that cost should be calculated by (quantity*unit price)
+- distribution of customers over countries
+- traffic distribution over countries. traffic means: count of invoices per country
+- top-purchased customers. sum of cost per customer
+- top (description) based on (record count)
+- high-cost stock code product
+- top stock code products based on quantity
+- AVG cost on a daily basis
+- count of unique customers daily (distinct customers)
+- count of unique customers monthly (distinct customers)
+
+
+
